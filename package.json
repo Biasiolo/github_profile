@@ -1,0 +1,17 @@
+{
+    "name": "github_profile",
+    "version": "1.0.0",
+    "description": "Um pacote incrível para alguma funcionalidade",
+    "main": "index.js",
+    "author": "Biasiolo",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Biasiolo/github_profile.git"
+    },
+    "keywords": ["github", "profile", "npm"], 
+    "homepage": "https://github.com/Biasiolo/github_profile#readme",
+    "bugs": {
+      "url": "https://github.com/Biasiolo/github_profile/issues"
+    }
+  }
