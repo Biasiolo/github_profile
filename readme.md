@@ -29,7 +29,7 @@ Welcome to the `github_profile` package! This package is designed to make it eas
 To start using `github_profile` in your project, follow these steps:
 
 1. **Install the package via npm:**
-   npm install github_profile
+   npm install github_profile_0
    
 Usage in your code:
 

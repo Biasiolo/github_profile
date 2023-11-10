@@ -1,7 +1,7 @@
 {
-    "name": "github_profile",
+    "name": "github_profile_0",
     "version": "1.0.0",
-    "description": "Um pacote incrível para alguma funcionalidade",
+    "description": "This package is designed to make it easy for you to showcase your GitHub information in your projects. Feel free to use this README as a template to personalize and display your own GitHub profile.",
     "main": "index.js",
     "author": "Biasiolo",
     "license": "MIT",
