@@ -1,18 +1,16 @@
 # github_profile
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=Biasiolo)
 
 Welcome to the `github_profile` package! This package is designed to make it easy for you to showcase your GitHub information in your projects. Feel free to use this README as a template to personalize and display your own GitHub profile.
 
 ## Features
 
 - **GitHub Statistics:**
-  ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true)
 
 - **Top Languages:**
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME)](https://github.com/anuraghazra/github-readme-stats)
 
-- **Skills:**
+- **Skills Badges:**
   - HTML ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=black)
   - CSS ![CSS](https://img.shields.io/badge/CSS-007ec6?style=for-the-badge&logo=css3&logoColor=black)
   - JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
@@ -25,10 +23,6 @@ Welcome to the `github_profile` package! This package is designed to make it eas
   - Pattern Recognition ![Pattern Recognition](https://img.shields.io/badge/Pattern%20Recognition-Proficient-yellow)
 
 - **Popular Projects:**
-  - [jquery-toggle-switch-plugin](https://github.com/YOUR_USERNAME/jquery-toggle-switch-plugin)
-    [![jquery-toggle-switch-plugin](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=jquery-toggle-switch-plugin&show_icons=true&theme=radical)](https://github.com/YOUR_USERNAME/jquery-toggle-switch-plugin)
-  - [Checklist Generator](https://github.com/YOUR_USERNAME/Checklist_Generator)
-    [![Checklist Generator](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Checklist_Generator&show_icons=true&theme=radical)](https://github.com/YOUR_USERNAMEgit sta/Checklist_Generator)
 
 ## Installation
 
